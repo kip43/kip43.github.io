@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Your Name
-first_name: Your
-last_name: Name
-greeting: "Hi, I'm Your Name!"
-tagline: "Just a programmer"
-email: your-email@example.com
+title: Денисов Михаил
+first_name: Михаил
+last_name:  Денисов
+greeting: "Привет, я Михаил Денисов!"
+tagline: "Инженер-проектировщик"
+email: forestranger@ya.ru
 
 description: >- # the ">" symbol means to ignore newlines
-  Personal blog - A programmer sharing thoughts on software development,
-  Python, and web technologies.
+  Личный блог — инженер-проектировщик АСУ делится мыслями о системах
+  управления, КИПиА и слаботочных сетях.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>.
